@@ -2,7 +2,7 @@
 PRACTICE Test 2, practice_problem 3.
 
 Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
-         their colleagues and Jingwen Wu.
+         their colleagues and .
 """  # Done: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 ########################################################################
